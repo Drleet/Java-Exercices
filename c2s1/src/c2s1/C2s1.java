@@ -14,6 +14,7 @@ public class C2s1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         client c1 = new clint(1,"a1","a1");
         client c2 = new clint(2,"a2","a2");
         client c3 = new clint(3,"a3","a3");
